@@ -1,1 +1,1 @@
-![Metrics](/github-metrics.svg) ![Metrics](/metrics.plugin.isocalendar.fullyear.svg)
+<img align="center" src="/github-metrics.svg" alt="Metrics" width="400">
